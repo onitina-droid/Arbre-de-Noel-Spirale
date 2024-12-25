@@ -3,7 +3,7 @@ Arbre de Noël Interactif 🎄✨
 
 J'ai trouver cet arbre sur github :
 
-![github](https://anvaka.github.io/atree/)
+## (https://anvaka.github.io/atree/)
 
 
 Bienvenue dans le projet Arbre de Noël Interactif ! Ce projet est basé sur un code original pour des spirales animées, auquel ont été ajoutées des fonctionnalités supplémentaires, notamment une étoile au sommet du sapin et un texte festif. Le tout est créé avec HTML et JavaScript.
@@ -56,49 +56,8 @@ Une autre spirale doree pour ajouter l'effet festif
 Interaction avec l'utilisateur : Le texte est interactif : lorsqu'il est cliqué, un feu d'artifice est déclenché pour ajouter de la magie à l'expérience.
 Le projet se compose d'un canevas HTML5 qui sert de toile de fond pour dessiner les animations et interagir avec l'utilisateur à travers JavaScript.
 
-C:\Users\ic\Documents\Dev Oni\NOEL_CODE
 
-
-
-
-
-
-
-
-
-
-
-
-
-How it's built?
----------------
 The tree is built of two spirals. These [11 lines of code] render one line on spiral. It includes 3d projection and background shadow. _Almost_ the same as this [wiki image](http://en.wikipedia.org/wiki/File:ComplexSinInATimeAxe.gif):
 
 ![spiral](http://upload.wikimedia.org/wikipedia/commons/a/a5/ComplexSinInATimeAxe.gif)
 
-It's almost perfect now
------------------------
-
-**EDIT:** Thank you reddit. With your help we made it almost perfect. You are awesome! 
-
-Huge appreciation goes to [@CensoredUsername](https://github.com/CensoredUsername) who made [significant improvement](http://www.reddit.com/r/programming/comments/1tswai/t_sin_t_christmas_tree/cebhvu9). 
-
-[@Yazuak](https://github.com/Yazuak) first gave and implemented [idea](http://www.reddit.com/r/programming/comments/1tswai/t_sin_t_christmas_tree/cebajpt) of how to manage even distribution of points along the curves.
-
-* Vitaliy Kaurov implemented the same tree in Wolfram language... in just [15 lines of code](http://community.wolfram.com/groups/-/m/t/175891).
-* [David Librera](https://github.com/davidlibrera) rewrote this in CoffeeScript. Checkout [his repository](https://github.com/davidlibrera/atree/tree/master/js/coffee) for nice OO design. 
-* Chris Warren-Smith [wrote it in SmallBASIC](https://gist.github.com/chrisws/3cf97b7b7f1c2d6f9741464a2dfb3c3b)
-* Mike Mallin made it [available in C](https://github.com/mremallin/christmas_tree) using SDL2 and OpenGL 3.2
-* SFML port by [@deniskropp](https://github.com/deniskropp) is available here: https://github.com/deniskropp/christmas_tree
-
-
-So, what's left? Just small changes which could make this tree perfect:
-
-* Shadows are not accurate
-* I think code is more complex than it should be (subjectively).
-
-# Happy Holidays!
-
-# license
-
-MIT
