@@ -1,14 +1,13 @@
-Arbre de Noël Interactif 🎄✨
+Arbre de Noël Spiral🎄✨
 ===============
 
-J'ai trouver cet arbre sur github :
 
-## (https://anvaka.github.io/atree/)
+Bienvenue dans le projet Arbre de Noël Spiral! 
+Ce projet est basé sur un code original pour des spirales animées, auquel ont été ajoutées des fonctionnalités supplémentaires, notamment une étoile au sommet du sapin et un texte festif. 
+Le tout est créé avec HTML et JavaScript.
 
-
-Bienvenue dans le projet Arbre de Noël Interactif ! Ce projet est basé sur un code original pour des spirales animées, auquel ont été ajoutées des fonctionnalités supplémentaires, notamment une étoile au sommet du sapin et un texte festif. Le tout est créé avec HTML et JavaScript.
-
-🚀 Ce projet est basé sur le code original pour des spirales qui ont été utilisées pour construire l'arbre de Noël.
+🚀 Ce projet est basé sur le code original pour des spirales qui ont été utilisées pour construire l'arbre de Noël dans le github de 
+### (https://anvaka.github.io/atree/).
 
 # 🎁 Fonctionnalités principales :
 Spirales animées : Un ensemble de spirales tournantes ornent le sapin de Noël, avec des couleurs vives qui apportent une touche magique à la scène.
